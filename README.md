@@ -22,7 +22,7 @@ I'm a **Technical Trainer** and **Web Developer** from Tamil Nadu, India 🇮�
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/manikandansrinivasan412/)
-- 📧 Email: manikandansrinivasank@gmail.com  
+- 📧 [Email](manikandansrinivasank@gmail.com) 
 
 Let's connect and build something amazing together! 🚀
 
